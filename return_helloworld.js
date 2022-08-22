@@ -1,3 +1,6 @@
+// return hellowworld....
+
+// defining the function
 function myStr(){
     return 'hello world';
 }
